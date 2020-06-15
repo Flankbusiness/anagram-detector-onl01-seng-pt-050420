@@ -1,5 +1,4 @@
-# Your code goes here!
-lass Anagram
+class Anagram
     def initialize(word)
         @anagram_find = word
     end
@@ -16,4 +15,3 @@ lass Anagram
          return random 
     end 
 end  
- ProTip! Use n and p to navigate b
